@@ -6,7 +6,7 @@ body {
 /* The sidebar menu */
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 15%; /* Set the width of the sidebar */
+    width: 15.5%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
@@ -55,9 +55,9 @@ body {
 
   h4 { 
     max-width: 40%;
-    margin: 10px;
+    margin: 50px;
     color: black;
-    font-size: 24px;  
+    font-size: 60px;  
     position: relative;
     font-family: Georgia, 'Times New Roman', Times, serif
   }
@@ -67,6 +67,19 @@ body {
     color: rgb(114, 114, 114);
       margin: 10px;
       font-family: Georgia, 'Times New Roman', Times, serif  
+  }
+
+  h6 {
+    max-width: 40%;
+    margin: 10px;
+    color: black;
+    font-size: 30px;  
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+
+  h7 {
+    
   }
 
   h1{
@@ -86,9 +99,13 @@ body {
     
   }
 
-  p {
+  aside {
       margin: 11px;
       color: rgb(116, 116, 116);
+      font-family: Georgia, 'Times New Roman', Times, serif;
   }
-
   
+  p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
