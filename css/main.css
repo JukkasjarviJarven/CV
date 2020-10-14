@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke; 
+    background-color: blue; 
     font-size: 24px;
     color: grey;
 }
@@ -11,7 +11,7 @@ body {
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     left: 0;
-    background-color: rgb(75, 75, 75); /* Black */
+    background-color: rgb(14, 14, 143); /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 10px;
 
@@ -67,20 +67,15 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif
   }
 
-  h5 {
-    font-size: 30px;
-    color: rgb(114, 114, 114);
-      margin: 10px;
-      font-family: Georgia, 'Times New Roman', Times, serif  
-  }
+  
 
   h6 {
     max-width: 40%;
     margin: 10px;
-    color: black;
+    color: rgb(247, 0, 205);
     font-size: 30px;  
     position: relative;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
 
 
